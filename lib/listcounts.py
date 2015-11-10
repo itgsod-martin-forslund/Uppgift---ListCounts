@@ -42,4 +42,4 @@ def max(listofnumbers):
 
 numbers=[3,6,1]
 
-print min(numbers)
+print min(numbers) 
